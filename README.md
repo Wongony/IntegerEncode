@@ -1,2 +1,2 @@
 # IntegerEncode
-Protobuf 整数编码分析
+Protobuf 整数编码浅析
